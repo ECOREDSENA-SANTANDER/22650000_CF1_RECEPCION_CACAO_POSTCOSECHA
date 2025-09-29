@@ -79,8 +79,34 @@ figcaption, table caption
   background-color: #F0E6E6
 .bg-2
   background-color: #FFF3C3
+.bg-3
+  background-color: #D2B5B5
+.bg-4
+  background-color: #EEF0E7
+.bg-5
+  background-color:  #4B0708
+.bg-6
+  background-color:  #665203
+.bg-7
+  background-color: #FFFBEB
+.bg-8
+  background-color: #CCD2B8
+.bg-9
+  background-color:   #D4D38F
 .bgi-1
   background-image: url('../assets/curso/temas/t1/bg1.png')
+  background-size: cover
+  background-repeat: no-repeat
+.bgi-2
+  background-image: url('../assets/curso/temas/t2/2.jpg')
+  background-size: cover
+  background-repeat: no-repeat
+.bgi-3
+  background-image: url('../assets/curso/temas/t3/bg.png')
+  background-size: cover
+  background-repeat: no-repeat
+.bgi-4
+  background-image: url('../assets/curso/temas/t5/bg.png')
   background-size: cover
   background-repeat: no-repeat
 .bgcolor-1
@@ -107,12 +133,16 @@ figcaption, table caption
     margin-inline: -1.4rem  
     background-size: cover 
 
+
+.w-90
+  width: 90px  
 .ico-lista 
   img
     width: 6%
     margin-right: 10px
     position: relative
     top: 5px  
+    max-width: 34px
   span
     width: 94%
 .txt-1
@@ -136,6 +166,91 @@ figcaption, table caption
 .slyder-f__btn  
   i
     color: #DF1718
+.subt 
+  background-color: #EEF0E7
+  border-top-right-radius: 10px
+  border-bottom-right-radius: 10px
+  width: fit-content
+  img
+    width: 50px
+    z-index: 99
+  .deco  
+    position: relative
+    &::before
+      content: ''
+      position: absolute
+      width: 30px
+      height: 100%
+      background-color: #586C16
+      border-top-right-radius: 100px
+      border-bottom-right-radius: 100px
+      left: 0px
+      top: 0px
+.subt2
+  background-color: #EEF0E7
+  width: fit-content
+  border-top-right-radius: 10px
+  border-bottom-right-radius: 10px
+  border-left: 5px solid #586C16
+.tabla-a
+  &.text-start
+    td
+      text-align: left !important
+      padding: 20px
+.acordion
+  &__activo
+    background-color: #FFFBEB
+    .acordion__accion__btn--b 
+      background-color: #586C16
+      border-color: #586C16
+      color: white
+  .acordion__accion__btn--b
+    background-color: #DF1718
+    border-color: #DF1718
+    color: white
+.tabs-a.color-acento-botones 
+  .tabs-a__tab
+    background-color: #DF1718
+    color: white
+    &__selected, &:hover
+      background-color: #FFEBEB
+      color: $color-sistema-texto
+      &:before
+        background-color: #FFEBEB
+.tabs-b
+  border-bottom: 4px solid #586C16
+  &__tab
+    background-color: #FFFBEB
+    &:active, &:hover
+      border-top-color: #F0E6E6 !important
+      background-color: #F0E6E6 
+    &--active
+      border-top-color: #F0E6E6 !important
+      background-color: #F0E6E6    
+      &:active, &:hover
+        border-top-color: #F0E6E6 !important
+        background-color: #F0E6E6 
+.circl-arrow .slyder-f__btn i
+  font-size: 1.2rem
+  background-color: $color-acento-botones
+  color: $white
+  height: 46px
+  width: 46px
+  padding: 5px
+  border-radius: 500px
+  display: flex
+  justify-content: center
+  align-items: center
+.tarj-hover .tarjeta
+  transition: all 0.3s ease-out
+  &:hover
+    background-color: #CCD2B8
+    transition: all 0.3s ease-out
+
+
+@media (min-width: $bp-min-xl)
+  .col-lg-55
+    width: 20%
 @media (max-width: $bp-max-sm)
   .banner-principal .tarjeta
     background-color: #6B0B0C !important
