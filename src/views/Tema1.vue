@@ -27,8 +27,8 @@
                   p.mb-0 Se invita a explorar el siguiente video para profundizar sobre la historia del cacao y su estado actual.
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=yUuBW8YCt9E')" target="_blank")
-                    span Ir al sitio
-                    i.fas.fa-file-video
+                    span Ir al video
+                    i.fas.fa-video
 
 
     Separador
@@ -91,7 +91,7 @@
                       span.mb-0 Se seca al sol (en patios, bandejas o secadores solares) o con sistemas artificiales (secadores mecánicos).
                     li 
                       img(src='@/assets/curso/temas/t1/lista.svg' alt='')
-                      span.mb-0 Se reduce la humedad del grano del 60 % al 6 – 7 % para evitar hongos y asegurar buena conservación.
+                      span.mb-0 Se reduce la humedad del grano del 60 % al 6 - 7 % para evitar hongos y asegurar buena conservación.
                     li 
                       img(src='@/assets/curso/temas/t1/lista.svg' alt='')
                       span.mb-0 Se remueven constantemente los granos para un secado uniforme.
