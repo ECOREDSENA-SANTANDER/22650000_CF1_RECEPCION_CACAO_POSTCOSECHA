@@ -188,7 +188,7 @@
               img(src='@/assets/curso/temas/t1/paso2-4.png', alt='')
           .row(numero="E" titulo="Toma de muestras y análisis de calidad")
             .col-md-6.mb-4.mb-md-0
-              pSe extraen muestras representativas del lote para análisis físico - químico y sensorial, como humedad, índice de fermentación, presencia de granos defectuosos, etc.
+              p Se extraen muestras representativas del lote para análisis físico - químico y sensorial, como humedad, índice de fermentación, presencia de granos defectuosos, etc.
             .col-md-6
               img(src='@/assets/curso/temas/t1/paso2-5.png', alt='')
           .row(numero="F" titulo="Clasificación y aceptación del lote")

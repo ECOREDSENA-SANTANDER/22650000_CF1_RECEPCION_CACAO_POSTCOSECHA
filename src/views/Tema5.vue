@@ -62,32 +62,38 @@
         .row.justify-content-center.mb-3
           .col-md-8.col-lg-5.col-6
             img(src='@/assets/curso/temas/t5/tarj1-1.svg' alt='')
-        p #[b a) Mejora de la calidad:] garantiza que solo ingresen lotes que cumplen con los estándares establecidos, reduciendo la variabilidad entre ellos.
+        p.mb-1 #[b a) Mejora de la calidad] 
+        p Garantiza que solo ingresen lotes que cumplen con los estándares establecidos, reduciendo la variabilidad entre ellos.
       .tarjeta.bg-1.bgi-4.p-4
         .row.justify-content-center.mb-3
           .col-md-8.col-lg-5.col-6
             img(src='@/assets/curso/temas/t5/tarj1-2.svg' alt='')
-        p #[b b) Aumento de la eficiencia:] minimiza tiempos muertos, disminuye errores operativos y facilita la toma de decisiones con base en datos objetivos.
+        p.mb-1 #[b b) Aumento de la eficiencia] 
+        p Minimiza tiempos muertos, disminuye errores operativos y facilita la toma de decisiones con base en datos objetivos.
       .tarjeta.bg-1.bgi-4.p-4
         .row.justify-content-center.mb-3
           .col-md-8.col-lg-5.col-6
             img(src='@/assets/curso/temas/t5/tarj1-3.svg' alt='')
-        p #[b c) Fortalecimiento de la capacitación:] proporciona guías claras y estandarizadas para entrenar a nuevos operarios o técnicos, asegurando uniformidad en los procesos.
+        p.mb-1 #[b c) Fortalecimiento de la capacitación] 
+        p Proporciona guías claras y estandarizadas para entrenar a nuevos operarios o técnicos, asegurando uniformidad en los procesos.
       .tarjeta.bg-1.bgi-4.p-4
         .row.justify-content-center.mb-3
           .col-md-8.col-lg-5.col-6
             img(src='@/assets/curso/temas/t5/tarj1-4.svg' alt='')
-        p #[b d) Cumplimiento normativo:] permite demostrar ante entidades reguladoras la correcta aplicación de protocolos de calidad, inocuidad y seguridad alimentaria.
+        p.mb-1 #[b d) Cumplimiento normativo] 
+        p Permite demostrar ante entidades reguladoras la correcta aplicación de protocolos de calidad, inocuidad y seguridad alimentaria.
       .tarjeta.bg-1.bgi-4.p-4
         .row.justify-content-center.mb-3
           .col-md-8.col-lg-5.col-6
             img(src='@/assets/curso/temas/t5/tarj1-5.svg' alt='')
-        p #[b e) Optimización de la trazabilidad:] facilita el seguimiento detallado de cada lote desde su recepción hasta su destino final, incrementando la transparencia.
+        p.mb-1 #[b e) Optimización de la trazabilidad] 
+        p Facilita el seguimiento detallado de cada lote desde su recepción hasta su destino final, incrementando la transparencia.
       .tarjeta.bg-1.bgi-4.p-4
         .row.justify-content-center.mb-3
           .col-md-8.col-lg-5.col-6
             img(src='@/assets/curso/temas/t5/tarj1-6.svg' alt='')
-        p #[b f) Mayor competitividad:] al asegurar un producto con calidad homogénea y documentada, se amplían las oportunidades de acceso a mercados nacionales e internacionales.
+        p.mb-1 #[b f) Mayor competitividad] 
+        p Al asegurar un producto con calidad homogénea y documentada, se amplían las oportunidades de acceso a mercados nacionales e internacionales.
 
 
     Separador
@@ -102,31 +108,36 @@
           .row.justify-content-center.mb-3
             .col-3.col-md-4.col-lg-4
               img(src='@/assets/curso/temas/t5/tarj2.svg' alt='') 
-          p.text-center #[b Muestreo:] utilizar una misma técnica (por ejemplo, muestreo aleatorio con sonda) para garantizar representatividad.
+          p.text-center.mb-1 #[b Muestreo:] 
+          p.text-center Utilizar una misma técnica (por ejemplo, muestreo aleatorio con sonda) para garantizar representatividad.
       .col-lg-55.col-md-6.mb-3  
         .tarjeta.bg-1.bgi-4.p-4.h-100
           .row.justify-content-center.mb-3
             .col-3.col-md-4.col-lg-4
               img(src='@/assets/curso/temas/t5/tarj2.svg' alt='') 
-          p.text-center #[b Evaluación de calidad:] seguir protocolos definidos para medir humedad, fermentación, defectos físicos, etc.
+          p.text-center.mb-1 #[b Evaluación de calidad:] 
+          p.text-center Seguir protocolos definidos para medir humedad, fermentación, defectos físicos, etc.
       .col-lg-55.col-md-6.mb-3  
         .tarjeta.bg-1.bgi-4.p-4.h-100
           .row.justify-content-center.mb-3
             .col-3.col-md-4.col-lg-4
               img(src='@/assets/curso/temas/t5/tarj2.svg' alt='') 
-          p.text-center #[b Criterios de aceptación o rechazo:] establecer parámetros mínimos (humedad máxima, fermentación mínima, tolerancia de impurezas).
+          p.text-center.mb-1 #[b Criterios de aceptación o rechazo:] 
+          p.text-center Establecer parámetros mínimos (humedad máxima, fermentación mínima, tolerancia de impurezas).
       .col-lg-55.col-md-6.mb-3  
         .tarjeta.bg-1.bgi-4.p-4.h-100
           .row.justify-content-center.mb-3
             .col-3.col-md-4.col-lg-4
               img(src='@/assets/curso/temas/t5/tarj2.svg' alt='') 
-          p.text-center #[b Registros y formatos:] usar formularios o sistemas digitales normalizados para ingresar datos.
+          p.text-center.mb-1 #[b Registros y formatos:] 
+          p.text-center Usar formularios o sistemas digitales normalizados para ingresar datos.
       .col-lg-55.col-md-6.mb-3  
         .tarjeta.bg-1.bgi-4.p-4.h-100
           .row.justify-content-center.mb-3
             .col-3.col-md-4.col-lg-4
               img(src='@/assets/curso/temas/t5/tarj2.svg' alt='') 
-          p.text-center #[b Capacitación del personal:] implementar manuales y talleres prácticos basados en los procedimientos definidos.
+          p.text-center.mb-1 #[b Capacitación del personal:] 
+          p.text-center Implementar manuales y talleres prácticos basados en los procedimientos definidos.
 
 
     .row.justify-content-center.align-items-center.mb-4

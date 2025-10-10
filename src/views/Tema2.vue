@@ -70,7 +70,7 @@
                 td.fw-bold #[em Codex alimentarius] (FAO/OMS)
                 td Establece criterios generales para alimentos, incluyendo límites de contaminantes, residuos de pesticidas y métodos de muestreo.
               tr
-                td.fw-bold ISO 2451:2017 – Cacao en grano
+                td.fw-bold ISO 2451:2017 - Cacao en grano
                 td Define los métodos de muestreo y análisis físico del cacao.
               tr.bg-4
                 td.fw-bold ISO 2292 e ISO 2291
@@ -79,7 +79,7 @@
                 td.fw-bold Reglamentos de la Unión Europea (UE)
                 td Imponen límites estrictos sobre la presencia de micotoxinas, metales pesados y pesticidas en el cacao y sus derivados.
               tr.bg-4
-                td.fw-bold FDA (Food and Drug Administration – Estados Unidos)
+                td.fw-bold FDA (#[em Food and Drug Administration] - Estados Unidos)
                 td Supervisa la inocuidad del cacao importado, incluyendo límites sobre contaminantes microbiológicos y requisitos de seguridad alimentaria.
 
     p Cumplir con estas regulaciones es indispensable para que el cacao pueda acceder a mercados de alto valor, como el europeo, norteamericano o asiático.

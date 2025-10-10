@@ -319,8 +319,6 @@ export default {
     {
       referencia:
         'Mundo Cacao. (2020). Norma técnica colombiana del ICNTEC. NTC 1252. Compras y fomento agrícola.',
-      link:
-        'https:// www.mundocacao.com.co/calidad/c/0i/i/49741462/norma-tecnica-colombiana-del-icontec-ntc-1252',
     },
     {
       referencia:
@@ -330,8 +328,6 @@ export default {
     },
     {
       referencia: 'Unipaz. (2021). Etapas del procesamiento de cacao.',
-      link:
-        'https://unipaz.edu.colomp/index.php/editorial/catalog/download/54/53/284?inline=1',
     },
   ],
   creditos: [
@@ -389,7 +385,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },

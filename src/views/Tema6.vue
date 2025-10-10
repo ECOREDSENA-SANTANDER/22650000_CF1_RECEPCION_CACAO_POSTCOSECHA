@@ -74,7 +74,7 @@
             .col-lg-1.col-md-2.col-4.mb-3.mb-md-0
               img(src='@/assets/curso/temas/t6/4.svg', alt='')
             .col-lg-11.col-md-10
-              p.mb-0 Ejemplo: si un cliente internacional detecta moho en un lote de cacao, gracias a la trazabilidad es posible identificar el proveedor, la fecha de recepción, las condiciones del lote y los pasos seguidos, lo que permite tomar acciones correctivas inmediatas.              
+              p.mb-0 #[b Ejemplo:] si un cliente internacional detecta moho en un lote de cacao, gracias a la trazabilidad es posible identificar el proveedor, la fecha de recepción, las condiciones del lote y los pasos seguidos, lo que permite tomar acciones correctivas inmediatas.              
 
 
     Separador

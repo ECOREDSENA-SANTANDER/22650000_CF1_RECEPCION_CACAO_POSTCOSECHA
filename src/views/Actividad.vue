@@ -20,7 +20,7 @@ export default {
       tema: 'Cacao y su recepción',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> Identificar etapas del proceso de recepción de cacao y su relación con la calidad del mismo. ',
+        '<b>Objetivo:</b> identificar etapas del proceso de recepción de cacao y su relación con la calidad del mismo. ',
       barajarPreguntas: false,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
