@@ -23,7 +23,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0.text-white
-                  h4.mb-1 Video: Planificación para la recepción del cacao
+                  h4.mb-1 Planificación para la recepción del cacao
                   p.mb-0 Se invita a explorar el siguiente video para profundizar sobre la historia del cacao y su estado actual.
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=yUuBW8YCt9E')" target="_blank")
