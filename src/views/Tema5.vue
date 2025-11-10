@@ -108,35 +108,35 @@
           .row.justify-content-center.mb-3
             .col-3.col-md-4.col-lg-4
               img(src='@/assets/curso/temas/t5/tarj2.svg' alt='') 
-          p.text-center.mb-1 #[b Muestreo:] 
+          p.text-center.mb-1 #[b Muestreo] 
           p.text-center Utilizar una misma técnica (por ejemplo, muestreo aleatorio con sonda) para garantizar representatividad.
       .col-lg-55.col-md-6.mb-3  
         .tarjeta.bg-1.bgi-4.p-4.h-100
           .row.justify-content-center.mb-3
             .col-3.col-md-4.col-lg-4
               img(src='@/assets/curso/temas/t5/tarj2.svg' alt='') 
-          p.text-center.mb-1 #[b Evaluación de calidad:] 
+          p.text-center.mb-1 #[b Evaluación de calidad] 
           p.text-center Seguir protocolos definidos para medir humedad, fermentación, defectos físicos, etc.
       .col-lg-55.col-md-6.mb-3  
         .tarjeta.bg-1.bgi-4.p-4.h-100
           .row.justify-content-center.mb-3
             .col-3.col-md-4.col-lg-4
               img(src='@/assets/curso/temas/t5/tarj2.svg' alt='') 
-          p.text-center.mb-1 #[b Criterios de aceptación o rechazo:] 
+          p.text-center.mb-1 #[b Criterios de aceptación o rechazo] 
           p.text-center Establecer parámetros mínimos (humedad máxima, fermentación mínima, tolerancia de impurezas).
       .col-lg-55.col-md-6.mb-3  
         .tarjeta.bg-1.bgi-4.p-4.h-100
           .row.justify-content-center.mb-3
             .col-3.col-md-4.col-lg-4
               img(src='@/assets/curso/temas/t5/tarj2.svg' alt='') 
-          p.text-center.mb-1 #[b Registros y formatos:] 
+          p.text-center.mb-1 #[b Registros y formatos] 
           p.text-center Usar formularios o sistemas digitales normalizados para ingresar datos.
       .col-lg-55.col-md-6.mb-3  
         .tarjeta.bg-1.bgi-4.p-4.h-100
           .row.justify-content-center.mb-3
             .col-3.col-md-4.col-lg-4
               img(src='@/assets/curso/temas/t5/tarj2.svg' alt='') 
-          p.text-center.mb-1 #[b Capacitación del personal:] 
+          p.text-center.mb-1 #[b Capacitación del personal] 
           p.text-center Implementar manuales y talleres prácticos basados en los procedimientos definidos.
 
 

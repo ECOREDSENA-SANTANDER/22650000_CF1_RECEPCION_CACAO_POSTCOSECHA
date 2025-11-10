@@ -93,7 +93,7 @@
           .tarjeta.bg-1.bgi-3.p-4(titulo="Equipos de protección personal (EPP)")
             h4 Equipos de protección personal (EPP)
             p.mb-4 Guantes, mascarillas, botas, gafas de seguridad y delantales, para proteger al personal y evitar la contaminación del grano.
-            .titulo-sexto.color-acento-contenido
+            .titulo-sexto.color-acento-contenido.mb-3
               h5 Figura 2.
               span  Equipos de protección personal
             img(src='@/assets/curso/temas/t3/fig2.svg', alt='Trabajador con elementos de protección personal (EPP). Se destacan, mediante íconos y etiquetas, las diferentes áreas que deben protegerse: cabeza (casco), ojos (gafas de seguridad), oídos (protección auditiva), vías respiratorias (mascarilla), manos (guantes), cuerpo (chaleco o ropa de protección) y pies (botas de seguridad).')
