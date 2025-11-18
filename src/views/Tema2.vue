@@ -139,7 +139,7 @@
               .anexo__icono
                 img(src="@/assets/curso/temas/t2/video.svg")
               .anexo__texto
-                p.mb-0 #[strong BUENAS PRACTICAS DE MANUFACTURA EN LA INDUSTRIA ALIMENTARIA.] Se invita a explorar el siguiente video para profundizar sobre las BPM.
+                p.mb-0 #[strong BUENAS PRÁCTICAS DE MANUFACTURA EN LA INDUSTRIA ALIMENTARIA.] Se invita a explorar el siguiente video para profundizar sobre las BPM.
 
     .bgi-2.p-4.py-5(data-aos="fade")
       .row.justify-content-center

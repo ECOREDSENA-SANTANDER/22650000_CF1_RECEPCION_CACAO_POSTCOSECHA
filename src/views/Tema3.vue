@@ -26,7 +26,9 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 1.
           span Ejemplo diseño distribución de espacios  en infraestructura
-        img(src='@/assets/curso/temas/t3/fig1.svg', alt='La distribución propuesta contempla el área de descarga en la parte frontal, lo que facilita el acceso de los vehículos y el manejo del producto. Junto a esta se ubica el área de inspección, permitiendo una evaluación rápida y eficiente de los granos. El área de almacenamiento temporal se dispone en un espacio protegido y separado, con el fin de preservar la calidad del cacao. Finalmente, las oficinas y las instalaciones sanitarias se sitúan en zonas estratégicamente accesibles para el personal, garantizando comodidad y funcionalidad en las operaciones diarias.')
+        figure.mb-2
+          img(src='@/assets/curso/temas/t3/fig1.svg', alt='La distribución propuesta contempla el área de descarga en la parte frontal, lo que facilita el acceso de los vehículos y el manejo del producto. Junto a esta se ubica el área de inspección, permitiendo una evaluación rápida y eficiente de los granos. El área de almacenamiento temporal se dispone en un espacio protegido y separado, con el fin de preservar la calidad del cacao. Finalmente, las oficinas y las instalaciones sanitarias se sitúan en zonas estratégicamente accesibles para el personal, garantizando comodidad y funcionalidad en las operaciones diarias.')
+        figcaption Fuente: Sena, (2025)
       .col-lg-7(data-aos='fade-left')
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg-1")
           .row(titulo="Área de descarga")
@@ -93,10 +95,11 @@
           .tarjeta.bg-1.bgi-3.p-4(titulo="Equipos de protección personal (EPP)")
             h4 Equipos de protección personal (EPP)
             p.mb-4 Guantes, mascarillas, botas, gafas de seguridad y delantales, para proteger al personal y evitar la contaminación del grano.
-            .titulo-sexto.color-acento-contenido.mb-3
+            .titulo-sexto.color-acento-contenido.mb-2
               h5 Figura 2.
-              span  Equipos de protección personal
-            img(src='@/assets/curso/temas/t3/fig2.svg', alt='Trabajador con elementos de protección personal (EPP). Se destacan, mediante íconos y etiquetas, las diferentes áreas que deben protegerse: cabeza (casco), ojos (gafas de seguridad), oídos (protección auditiva), vías respiratorias (mascarilla), manos (guantes), cuerpo (chaleco o ropa de protección) y pies (botas de seguridad).')
+              span Equipos de protección personal
+            figure
+              img(src='@/assets/curso/temas/t3/fig2.svg', alt='Trabajador con elementos de protección personal (EPP). Se destacan, mediante íconos y etiquetas, las diferentes áreas que deben protegerse: cabeza (casco), ojos (gafas de seguridad), oídos (protección auditiva), vías respiratorias (mascarilla), manos (guantes), cuerpo (chaleco o ropa de protección) y pies (botas de seguridad).')
       .col-lg-3.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t3/2.png', alt='')
 
